@@ -1,3 +1,4 @@
+/* This * selector styles all boxes the same with border-box and 0 padding and margin. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* The header classes style the Horiseon logo on the top left of the homepage. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* The header nav classes style the navigation bar at the top of the homepage.  */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero class controls the background image on the homepage. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +63,45 @@ p {
     background-position: center;
 }
 
+/* Controls the placement of the top and bottom business service on the homepage. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Controls the placement of the middle business service on the homepage. */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles the section containing the business services articles. Will only occupy 75% of the screen. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* business-services classes style the 3 business services in the section containing the 3 articles. */
+.business-services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.business-services img {
+    max-height: 200px;
+}
+
+.business-services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* The benefit and benefit-all classes style the 3 main benefits in the section containing the 3 asides. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,24 +129,7 @@ p {
     max-width: 150px;
 }
 
-.business-services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.business-services img {
-    max-height: 200px;
-}
-
-.business-services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* The footer classes style the footer on the homepage. */
 .footer {
     padding: 30px;
     clear: both;
