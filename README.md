@@ -17,5 +17,10 @@ This was accomplished by:
     <li>CSS</li>
 </ul>
 
+## What I Learned
+
+While working on this project I learned more about HTML semantics, the importance of including alt text for images, and how to be efficient with CSS classes.
+By learning and implementing all of the things mentioned above, I was able to successfully make Horiseon's webpage acccessible to those who have visual impairments. 
+
 
 
