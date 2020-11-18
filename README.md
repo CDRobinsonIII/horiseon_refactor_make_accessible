@@ -1,4 +1,4 @@
-﻿# Horizon Refractor - Make Accessible
+﻿# Horizon Refactor - Make Accessible
 
 ## Description
 This project involved taking Horiseon's existing website and making it accessible. 
