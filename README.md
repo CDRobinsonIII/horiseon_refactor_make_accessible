@@ -24,7 +24,7 @@ By learning and implementing all of the things mentioned above, I was able to su
 
 
 ## Link to Horiseon's accessible website:
-https://cdrobinsoniii.github.io/horiseon_refractor_make_accessible/
+https://cdrobinsoniii.github.io/horiseon_refactor_make_accessible/
 
 
 
